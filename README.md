@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on C3 Club<br>- 📚 I'm currently learning MongoDB<br>- ⚡ In my free time I sleep 💤<br>- 📫 How to reach me : monirhoss27@gmail.com</p>
+<p align="left">- 🔭 I’m currently working on RoboMaster competition Club<br>- 📚 I'm currently learning ROS<br>- ⚡ In my free time I sleep 💤<br>- 📫 How to reach me : monirhoss27@gmail.com</p>
 
 ###
 
